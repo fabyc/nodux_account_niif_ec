@@ -1,4 +1,4 @@
-Chart NIIF Account For Ecuador / Plan de Cuentas NIIF para Ecuador
+Chart NIIF Account for Ecuador / Plan de Cuentas NIIF para Ecuador
 #######################################################
 
 Módulo que agrega el plan de cuentas para el Módulo Financiero, 
